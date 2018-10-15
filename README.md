@@ -13,3 +13,10 @@ Worked on fixing an existing controller, have a better understanding of assembly
 Reading each others proposals, need to work on creating a question from my artefact idea. Have a better idea of what I'm going to do for my artefact.
 ### Comp330 - More on Javascript:
 Worked more on NodeJS server, going to try and implement the graphics thing Garath mentioned but I forgot what it was. More prototyping for game project, but it doesn't feel like it's getting anywhere.
+## Week 3 - Mon 8th October
+### Comp310 - Demake presentation:
+Presented demake, going to make super meat boy, seems well scoped, still need to go through the live coding videos and pick out the useful parts. Wiki went reasonably well, did little bits over the 2 weeks and felt reasonably happy with my contribution and didn't feel overworked doing it.
+### Comp320 - Better idea of how it breaks down:
+Went over proposal draft with Al. It was more of a literary review mixed in but I needed to do that to be able to reference something. The structure of the first assignment will be more separated literary review followed by proposal. Going to work on draft questions this week and getting the ethics form done.
+### Comp330 - Asteroids example code:
+Feeling more productive with the game project, bit demotivating coding a solution to have the prototype shelved but I guess that's good practice. Going to start with the asteroids example which I have integrated with my nodeJS stuff and break it down into a barebones template of something I can work with.
