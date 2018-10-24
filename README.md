@@ -20,3 +20,10 @@ Presented demake, going to make super meat boy, seems well scoped, still need to
 Went over proposal draft with Al. It was more of a literary review mixed in but I needed to do that to be able to reference something. The structure of the first assignment will be more separated literary review followed by proposal. Going to work on draft questions this week and getting the ethics form done.
 ### Comp330 - Asteroids example code:
 Feeling more productive with the game project, bit demotivating coding a solution to have the prototype shelved but I guess that's good practice. Going to start with the asteroids example which I have integrated with my nodeJS stuff and break it down into a barebones template of something I can work with.
+## Week 4 - Mon 15th October
+### Comp310 - NES Progress:
+Got multiple collisions working with my sprite with some gravity, may need to rethink the features I'm going to have because it's quite a lot. Maybe scope it down a little, but will continue to see what I can get working and try and scale up the things I've got.
+### Comp320 - Ethics form:
+Been filling out the ethics form, not too many concerns here really, so is just something that I need to do.
+### Comp330 - Reworking Asteroids:
+Got a better understanding of how the asteroids game is working, just tweaking the code a little at a time to turn it into something else and then will purge the stuff from the project that I no longer need and rename things. Need it to be working with the digital oceans server too.
